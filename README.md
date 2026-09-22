@@ -11,7 +11,7 @@
 - api-plan.md — план API
 - git-conflict.md — описание конфликта
 
-## Статус: в разработке
+## Статус: MVP готов
 
 ## Roadmap
 - MVP: CRUD заметок
