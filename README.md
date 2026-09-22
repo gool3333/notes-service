@@ -10,6 +10,9 @@
 - project-notes.md — заметки по проекту
 - api-plan.md — план API
 - git-conflict.md — описание конфликта
+
+## Статус: MVP готов
+
 ## Roadmap
 - MVP: CRUD заметок
 - v2: поиск по тегам
